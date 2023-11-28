@@ -1,0 +1,9 @@
+## Title: HelloWorld
+## Notes: https://vanilla-wow-archive.fandom.com/wiki/AddOn_programming_tutorial
+## Author: Luca Loncar
+
+## Interface: 30403
+## Version: 10.2.2
+
+src\main.lua
+src\main.xml
